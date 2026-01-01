@@ -1,0 +1,6 @@
+requests
+argparse
+aiohttp
+rich
+aiohttp-socks
+
