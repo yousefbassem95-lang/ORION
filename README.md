@@ -1,4 +1,5 @@
 <img width="492" height="651" alt="Screenshot from 2026-01-02 02-25-15" src="https://github.com/user-attachments/assets/7673f459-8b20-464e-b4b0-fe31d7f5e15d" />
+
 # ORION: Advanced Red Team Network Resilience Tool v2.1
 
 ![Orion Banner](https://img.shields.io/badge/Status-Stealth_Active-blueviolet) ![Red Team](https://img.shields.io/badge/Category-Red_Team-red) ![Version](https://img.shields.io/badge/Version-2.1_Supernova-blue)
